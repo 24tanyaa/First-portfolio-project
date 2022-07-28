@@ -1,5 +1,6 @@
 # First-portfolio-project
 NOTE: This project is just for my learning. I have referred to Alex freberg's portfolio project to apply the knowledge in practical aspects.
+I have used Bigquery Console for my SQL queries.
 Analysis of public covid dataset
 
 
