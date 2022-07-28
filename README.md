@@ -1,4 +1,5 @@
 # First-portfolio-project
+NOTE: This project is just for my learning. I have referred to Alex freberg's portfolio project to apply the knowledge in practical aspects.
 Analysis of public covid dataset
 
 
